@@ -1,4 +1,5 @@
-const { NOTFOUND } = require('dns');
+#!/usr/bin/env node
+
 var pkgUp = require('pkg-up'),
 chalk = require('chalk'),
 figlet = require('figlet'),
